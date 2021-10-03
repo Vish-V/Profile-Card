@@ -19,14 +19,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/65409840/135739542-2fde88c8-38f8-4e1e-9a9e-12a96b2aa904.png)
 
 Screenshot of solution
 
 ### Links
 
 - Solution URL: (https://github.com/Vish-V/Profile-Card.git)
-
+- Live Site URL: (https://vish-v.github.io/Profile-Card/)
 
 
 ### Built with
